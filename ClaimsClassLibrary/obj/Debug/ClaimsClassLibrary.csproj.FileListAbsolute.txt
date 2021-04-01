@@ -1,0 +1,6 @@
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\bin\Debug\ClaimsClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\bin\Debug\ClaimsClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.pdb

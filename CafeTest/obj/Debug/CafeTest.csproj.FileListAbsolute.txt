@@ -1,0 +1,32 @@
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\CafeTest.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\CafeTest.pdb
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\CafeClassLibrary.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\CafeClassLibrary.pdb
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\obj\Debug\CafeTest.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\obj\Debug\CafeTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\obj\Debug\CafeTest.csproj.CopyComplete
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\obj\Debug\CafeTest.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeTest\obj\Debug\CafeTest.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\CafeTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\CafeTest.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\CafeClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\CafeClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\obj\Debug\CafeTest.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\obj\Debug\CafeTest.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\obj\Debug\CafeTest.csproj.CopyComplete
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\obj\Debug\CafeTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeTest\obj\Debug\CafeTest.pdb

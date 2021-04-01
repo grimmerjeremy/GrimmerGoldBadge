@@ -1,0 +1,20 @@
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe.config
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.pdb
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\bin\Debug\CafeClassLibrary.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\bin\Debug\CafeClassLibrary.pdb
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CopyComplete
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.exe
+C:\Users\Jeremy\source\repos\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe.config
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\bin\Debug\CafeClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\bin\Debug\CafeClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CopyComplete
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.exe
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.pdb

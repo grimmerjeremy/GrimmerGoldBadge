@@ -1,0 +1,16 @@
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\obj\Debug\BadgesTest.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\obj\Debug\BadgesTest.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\BadgesTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\BadgesTest.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\BadgesLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\BadgesLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\obj\Debug\BadgesTest.csproj.CopyComplete
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\obj\Debug\BadgesTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesTest\obj\Debug\BadgesTest.pdb

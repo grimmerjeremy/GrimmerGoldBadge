@@ -1,0 +1,10 @@
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.exe.config
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.exe
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csproj.CopyComplete
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.exe
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.pdb

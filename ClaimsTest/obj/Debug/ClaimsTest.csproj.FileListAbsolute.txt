@@ -1,0 +1,16 @@
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\ClaimsTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\ClaimsTest.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\obj\Debug\ClaimsTest.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\obj\Debug\ClaimsTest.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\obj\Debug\ClaimsTest.csproj.CopyComplete
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\obj\Debug\ClaimsTest.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\obj\Debug\ClaimsTest.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\ClaimsClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\ClaimsTest\bin\Debug\ClaimsClassLibrary.pdb

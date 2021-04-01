@@ -1,0 +1,6 @@
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\bin\Debug\BadgesLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\bin\Debug\BadgesLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\obj\Debug\BadgesLibrary.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\obj\Debug\BadgesLibrary.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\obj\Debug\BadgesLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\BadgesLibrary\obj\Debug\BadgesLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\bin\Debug\CafeClassLibrary.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\bin\Debug\CafeClassLibrary.pdb
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.dll
+C:\Users\Jeremy\source\repos\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\bin\Debug\CafeClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\bin\Debug\CafeClassLibrary.pdb
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.dll
+E:\ElevenFiftyProjects\81-3-8 SD\cSharpLessons\GoldBadge\CafeClassLibrary\obj\Debug\CafeClassLibrary.pdb
