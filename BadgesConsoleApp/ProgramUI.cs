@@ -115,10 +115,10 @@ namespace BadgesConsoleApp
 
         private void DisplayBadges(Badge badge)
         {
-            Console.WriteLine($"Badge #  {badge.BadgeNumber } ");
+            Console.WriteLine($"Badge #  {badge.BadgeNumber } ".PadRight(10));
             foreach (var doors in badge.DoorAccess)
             {
-                Console.WriteLine(doors);
+                Console.WriteLine(doors.PadRight(10));
             }
         }
 
